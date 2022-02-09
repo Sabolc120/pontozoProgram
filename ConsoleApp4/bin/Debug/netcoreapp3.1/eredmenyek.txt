@@ -1,0 +1,32 @@
+﻿Az 1. Tanuló pontszáma: 100
+Az 1. Tanuló át ment a vizsgán.
+
+
+Az 2. Tanuló pontszáma: 28,57142857142857
+Az 2. Tanuló nem ment át a vizsgán.
+
+
+Az 3. Tanuló pontszáma: 80,95238095238095
+Az 3. Tanuló át ment a vizsgán.
+
+
+Az 4. Tanuló pontszáma: 86,66666666666666
+Az 4. Tanuló át ment a vizsgán.
+
+
+Az 1. Tanuló pontszáma: 46
+Az 1. Tanuló át ment a vizsgán.
+
+
+Az 2. Tanuló pontszáma: 89,2
+Az 2. Tanuló át ment a vizsgán.
+
+
+Az 3. Tanuló pontszáma: 22,4
+Az 3. Tanuló nem ment át a vizsgán.
+
+
+Az 4. Tanuló pontszáma: 31,2
+Az 4. Tanuló át ment a vizsgán.
+
+
